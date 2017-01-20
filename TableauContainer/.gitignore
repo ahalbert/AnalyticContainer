@@ -1,0 +1,17 @@
+
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+
+*.pyc
+.project
+.pydevproject
+.idea
+
+ac_logger.log
+docker-share/ac_logger.log
+docker-share/progress.json
+tableau.log

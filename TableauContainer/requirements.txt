@@ -1,0 +1,10 @@
+
+docker-py==1.5.0
+boto==2.33.0
+botocore==0.66.0
+tableau_tools>=3.1.1
+lxml>=3.4.2
+pytractor==0.2.0
+selenium==2.43.0
+
+
